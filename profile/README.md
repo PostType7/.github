@@ -1,3 +1,21 @@
+### Organisation repositories map
+
+```
+┌─────────────────────────────┐
+│                             │
+│              /src           │
+│  /PostType7/NextStarterPack ├──►┐
+│                             │   │  ┌────────────────────────────┐
+└─────────────────────────────┘   │  │                            │
+                                  │  │                       /src │
+                                  ├──┤ /PostType7/NextStarterPack │
+                                  │  │                            │
+                                  │  └────────────────────────────┘
+                                  │
+                                  │
+                                  │
+```
+
 ### Install PostType7 starter
 
 - Clone empty next.js repo with typescript and tailwind<br/>
