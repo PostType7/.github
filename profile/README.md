@@ -8,7 +8,7 @@
 `git clone git@github.com:PostType7/NativeTheme.git <your-project-name>/src/components/themes/PureBaldrTheme`<br/><br/>
 - Clone example PureBaldrTheme page<br/>
 `git clone git@github.com:PostType7/NativeTheme.git <your-project-name>/src/pages/PureBaldr-example-backOffice`<br/><br/>
-- Go to your projectr `cd/<your-project-name>` install libraries `yarn` and run `yarn dev`<br/>
+- Go to your projectr `cd/<your-project-name>` install libraries `yarn` and run `yarn dev`<br/><br/>
 
 
 ### Organisation repositories map
